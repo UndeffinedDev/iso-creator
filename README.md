@@ -3,10 +3,11 @@
 A Bash script to create ISO images from files and directories, with support for ZIP extraction, logging, and custom labels.
 
 ## 🚀 Features
-- ✅ Free! I made this idea so as not to be limited to the ~870MB that AnyToISO allows to convert for free. (This is not a replacement, just a small alternative).
-- ✅ Create ISO images from files and directories
-- ✅ Support for custom labels in the ISO
-- ✅ ZIP file compatibility (extract and include contents)
+- ✅ **Free!** I made this idea so as not to be limited to the ~870MB that AnyToISO allows to convert for free. (This is not a replacement, just a small alternative).
+- ✅ **Windows & Linux compatibility** (Check the `windows-version` branch for Windows program).
+- ✅ **Create ISO images** from files and directories
+- ✅ **Support for custom** for the ISO image.
+- ✅ **ZIP extraction** (optional) before adding to the ISO.
 - ✅ Dependency validation (`mkisofs`, `unzip`, `zip`)
 - ✅ Disk space check to prevent errors
 - ✅ Activity logging via `iso_creator.log`
@@ -15,7 +16,7 @@ A Bash script to create ISO images from files and directories, with support for 
 - ✅ User-friendly command-line options (`-l` for label, etc.)
 
 ## 🔧 Ideas
-- 💡 Change to another language to be able to port this to Windows.
+- ✅ Change to another language to be able to port this to Windows.
 - 💡 Support more file types
 
 ## 📥 Installation
@@ -27,7 +28,7 @@ sudo apt update && sudo apt install genisoimage zip unzip
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/iso-creator.git
+git clone https://github.com/UndeffinedDev/iso-creator.git
 cd iso-creator
 chmod +x iso-creator.sh
 ```
