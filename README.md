@@ -4,7 +4,7 @@ A Bash script to create ISO images from files and directories, with support for 
 
 ## 🚀 Features
 - ✅ **Free!** I made this idea so as not to be limited to the ~870MB that AnyToISO allows to convert for free. (This is not a replacement, just a small alternative).
-- ✅ **Windows & Linux compatibility** (Check the `windows-version` branch for Windows program).
+- ✅ **Windows & Linux compatibility** (Check the `windows-version` folder for Windows program).
 - ✅ **Create ISO images** from files and directories
 - ✅ **Support for custom** for the ISO image.
 - ✅ **ZIP extraction** (optional) before adding to the ISO.
