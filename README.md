@@ -49,7 +49,7 @@ The `-l` option sets a custom label for the ISO image.
 
 ### Example Output
 ```
-$ ./convert_to_iso.sh -l PYTHON_EXECUTABLES Pythons.zip
+$ ./iso-creator.sh -l PYTHON_EXECUTABLES Pythons.zip
 
 Starting script...
 Processing files/directories...
