@@ -18,6 +18,10 @@ A Python-based tool to create ISO images from files and directories, with suppor
 ## 🔧 Future Improvements
 - 💡 **Support more file types.**
 
+## ⬇️ Download
+You can download the latest version from the [Releases](https://github.com/UndeffinedDev/iso-creator/releases) section on GitHub or [Dist folder](https://github.com/UndeffinedDev/iso-creator/tree/main/windows-version/dist).
+
+
 ## 📥 Installation
 ### Running the Precompiled Executable (Windows)
 Download `iso-creator.exe` and run it from the command line.
