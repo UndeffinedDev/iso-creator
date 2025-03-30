@@ -1,8 +1,8 @@
 ## **Compatibility Table**
 
-| Icon    | ✅             | ⚠️                | ❓                     | ❌         | 🏗️                  | 🚧                  |
-|---------|---------------|------------------|-----------------------|-----------|--------------------|--------------------|
-| **Meaning** | Fully functional | Works, but has bugs | Not sure if it works | Doesn't work | In development | Development paused |
+| Icon    | ✅             | ⚠️                | ❓                     | ❌         | 🏗️                  | 🚧                  | 🔄  |
+|---------|---------------|------------------|-----------------------|-----------|--------------------|--------------------|--------------------|
+| **Meaning** | Fully functional | Works, but has bugs | Not sure if it works | Doesn't work | In development | Development paused | Possible to implement |
 
 
 > [!IMPORTANT]  
@@ -10,9 +10,9 @@
 
 |**Versión**|**Support**|
 | :- | :- |
-|Windows 10 x86|❌|
+|Windows 10 x86|🔄|
 |Windows 10 x64|❓|
-|Windows 11 x86|❌|
+|Windows 11 x86|🔄|
 |Windows 11 x64|✅|
 |Ubuntu 18.04|❓|
 |Ubuntu 20.04|❓|
@@ -35,6 +35,19 @@
 |openSUSE Leap 15.4|❓|
 |openSUSE Leap 15.5|❓|
 |openSUSE Tumbleweed|❓|
+| macOS 10.9 Mavericks    |⚠️|
+| macOS 10.10 Yosemite    |⚠️|
+| macOS 10.11 El Capitan  |⚠️|
+| macOS 10.12 Sierra      |⚠️|
+| macOS 10.13 High Sierra |⚠️|
+| macOS 10.14 Mojave      |⚠️|
+| macOS 10.15 Catalina    |⚠️|
+| macOS 11 Big Sur        |⚠️|
+| macOS 12 Monterey       |⚠️|
+| macOS 13 Ventura        |⚠️|
+| macOS 14 Sonoma         |⚠️|
+| macOS 15 Sequoia        |⚠️|
+
 
 ### **Based Distributions**  
 
