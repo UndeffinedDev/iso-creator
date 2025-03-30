@@ -4,7 +4,7 @@ A Python-based tool to create ISO images from files and directories, with suppor
 
 ## 🚀 Features
 - ✅ **Free!** Created as an alternative to avoid the ~870MB limit in AnyToISO's free version (not a replacement, just another option).
-- ✅ **Windows & Linux compatibility** (Check the `main` branch for Linux script).
+- ✅ **Windows & Linux compatibility** (Check the [main](https://github.com/UndeffinedDev/iso-creator/tree/main/windows-version)` branch for Linux script).
 - ✅ **Create ISO images** from files and directories.
 - ✅ **Support for custom** for the ISO image.
 - ✅ **ZIP extraction** (optional) before adding to the ISO.
@@ -22,7 +22,7 @@ A Python-based tool to create ISO images from files and directories, with suppor
 ### Running the Precompiled Executable (Windows)
 Download `iso-creator.exe` and run it from the command line.
 
-### Running from Source (Python 3.12.3+)
+### Running from Source (Python 3.7+)
 Make sure you have the required dependencies:
 
 Clone the repository:
@@ -35,7 +35,7 @@ python main.py file1 file2 directory1 output.iso
 
 ## 📥 Compilation
 
-To compile `iso-creator` from source, you need Python 3.12.3+ and PyInstaller to create the executables.
+To compile `iso-creator` from source, you need Python 3.7+ and PyInstaller to create the executables.
 
 ### Step-by-Step Compilation
 
