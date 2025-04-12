@@ -10,9 +10,9 @@
 
 |**Versión**|**Support**|
 | :- | :- |
-|Windows 10 x86|🔄|
+|Windows 10 x86|🏗️|
 |Windows 10 x64|❓|
-|Windows 11 x86|🔄|
+|Windows 11 x86|🏗️|
 |Windows 11 x64|✅|
 |Ubuntu 18.04|❓|
 |Ubuntu 20.04|❓|
